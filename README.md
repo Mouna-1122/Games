@@ -1,19 +1,24 @@
-Snake Game 🐍
-A classic Snake Game developed using Python's Turtle graphics library. Control the snake using the arrow keys, collect food to increase your score, and avoid hitting the walls or your own body.
+🐍 Snake Game
 
-Features
+A classic Snake Game developed using Python's Turtle Graphics library. Control the snake using the arrow keys, collect food to increase your score, and avoid colliding with the walls or the snake's own body.
+
+✨ Features
 Classic Snake gameplay
 Random food generation
 Dynamic snake growth
-Score & High Score tracking
+Score and High Score tracking
 Increasing game difficulty
 Smooth keyboard controls
 Collision detection
-Tech Stack
-Python
+
+🛠️ Tech Stack
+Language: Python 3
+IDE: Visual Studio Code (VS Code)
+Libraries:
 Turtle Graphics
-Random Module
-Time Module
+Random
+Time
+
 Controls
 ↑ : Move Up
 ↓ : Move Down
