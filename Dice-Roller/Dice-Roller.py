@@ -1,6 +1,6 @@
 import random
 
-print("🎲 Welcome to the Dice Roller Game!")
+print("Welcome to the Dice Roller Game!")
 
 while True:
     input("\nPress Enter to roll the dice...")
@@ -11,5 +11,5 @@ while True:
     choice = input("\nRoll again? (y/n): ").lower()
 
     if choice != 'y':
-        print("\nThanks for playing! 👋")
+        print("\nThanks for playing!")
         break
